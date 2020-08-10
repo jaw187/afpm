@@ -1,0 +1,126 @@
+{
+    "seasons": [
+        {
+            "year": "2020",
+            "weeks": [
+                {
+                    "name": "Week 1",
+                    "games": [
+                        {
+                            "away": "Texans",
+                            "home": "Chiefs",
+                            "start": 1599783600000,
+                            "total": 54.5,
+                            "spread": -10
+                        },
+                        {
+                            "away": "Jets",
+                            "home": "Bills",
+                            "start": 1600016400000,
+                            "total": 40.5,
+                            "spread": -6.5
+                        },
+                        {
+                            "away": "Eagles",
+                            "home": "Washington",
+                            "start": 1600016400000,
+                            "total": 44.5,
+                            "spread": 6.5
+                        },
+                        {
+                            "away": "Seahawks",
+                            "home": "Falcons",
+                            "start": 1600016400000,
+                            "total": 48.5,
+                            "spread": 1
+                        },
+                        {
+                            "away": "Browns",
+                            "home": "Ravens",
+                            "start": 1600016400000,
+                            "total": 49.5,
+                            "spread": -7.5
+                        },
+                        {
+                            "away": "Packers",
+                            "home": "Vikings",
+                            "start": 1600016400000,
+                            "total": 46.5,
+                            "spread": -3.5
+                        },
+                        {
+                            "away": "Raiders",
+                            "home": "Panthers",
+                            "start": 1600016400000,
+                            "total": 47,
+                            "spread": 1.5
+                        },
+                        {
+                            "away": "Bears",
+                            "home": "Lions",
+                            "start": 1600016400000,
+                            "total": 44,
+                            "spread": -1.5
+                        },
+                        {
+                            "away": "Dolphins",
+                            "home": "Patriots",
+                            "start": 1600016400000,
+                            "total": 43.5,
+                            "spread": -6.5
+                        },
+                        {
+                            "away": "Colts",
+                            "home": "Jaguars",
+                            "start": 1600016400000,
+                            "total": 46,
+                            "spread": 7
+                        },
+                        {
+                            "away": "Chargers",
+                            "home": "Bengals",
+                            "start": 1600027500000,
+                            "total": 44,
+                            "spread": 3.5
+                        },
+                        {
+                            "away": "Cardinals",
+                            "home": "49ers",
+                            "start": 1600028700000,
+                            "total": 46.5,
+                            "spread": -7
+                        },
+                        {
+                            "away": "Buccaneers",
+                            "home": "Saints",
+                            "start": 1600028700000,
+                            "total": 49.5,
+                            "spread": -4
+                        },
+                        {
+                            "away": "Cowboys",
+                            "home": "Rams",
+                            "start": 1600042800000,
+                            "total": 50.5,
+                            "spread": 2.5
+                        },
+                        {
+                            "away": "Steelers",
+                            "home": "Giants",
+                            "start": 1600125300000,
+                            "total": 47.5,
+                            "spread": 3.5
+                        },
+                        {
+                            "away": "Titans",
+                            "home": "Broncos",
+                            "start": 1600135800000,
+                            "total": 47.5,
+                            "spread": 3.5
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
